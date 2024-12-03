@@ -1,0 +1,21 @@
+# ninja log v6
+73	137	7548439884327851	untitled1.exe	7e574a0f2a2fe32a
+3	79	7548464713529848	CMakeFiles/untitled1.dir/main.c.obj	ffe10be735b58aea
+7	66	7548464713569966	CMakeFiles/untitled1.dir/mySort.c.obj	1a13c907c12f7893
+7	50	7548466593479719	CMakeFiles/untitled1.dir/mySort.c.obj	1a13c907c12f7893
+4	69	7548466593449700	CMakeFiles/untitled1.dir/main.c.obj	ffe10be735b58aea
+69	132	7548466594100285	untitled1.exe	3d135f0afcc2b951
+3	47	7548470631996102	CMakeFiles/untitled1.dir/mySort.c.obj	1a13c907c12f7893
+48	114	7548470632446513	untitled1.exe	3d135f0afcc2b951
+7	50	7548472490909425	CMakeFiles/untitled1.dir/mySort.c.obj	1a13c907c12f7893
+3	64	7548472490879404	CMakeFiles/untitled1.dir/main.c.obj	ffe10be735b58aea
+65	128	7548472491489953	untitled1.exe	3d135f0afcc2b951
+6	61	7548609721625366	CMakeFiles/untitled1.dir/mySort.c.obj	1a13c907c12f7893
+3	73	7548609721585336	CMakeFiles/untitled1.dir/main.c.obj	ffe10be735b58aea
+73	145	7548609722285967	untitled1.exe	3d135f0afcc2b951
+16	81	7548615379919118	CMakeFiles/untitled1.dir/main.c.obj	ffe10be735b58aea
+81	148	7548615380569699	untitled1.exe	3d135f0afcc2b951
+14	72	7548615519299764	CMakeFiles/untitled1.dir/main.c.obj	ffe10be735b58aea
+73	137	7548615519890305	untitled1.exe	3d135f0afcc2b951
+3	50	7548616388962912	CMakeFiles/untitled1.dir/mySort.c.obj	1a13c907c12f7893
+50	115	7548616389433338	untitled1.exe	3d135f0afcc2b951
