@@ -1,7 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include "MySort.h"
-#include "Macro.h"
 
 //ÕûÊıÊä³öÆ÷
 void integerOutput(void* a);
