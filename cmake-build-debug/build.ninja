@@ -55,8 +55,20 @@ build CMakeFiles/untitled1.dir/main.c.obj: C_COMPILER__untitled1_unscanned_Debug
   OBJECT_DIR = CMakeFiles\untitled1.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
 
-build CMakeFiles/untitled1.dir/mySort.c.obj: C_COMPILER__untitled1_unscanned_Debug C$:/Users/14130/CLionProjects/untitled1/mySort.c || cmake_object_order_depends_target_untitled1
-  DEP_FILE = CMakeFiles\untitled1.dir\mySort.c.obj.d
+build CMakeFiles/untitled1.dir/MySort.c.obj: C_COMPILER__untitled1_unscanned_Debug C$:/Users/14130/CLionProjects/untitled1/MySort.c || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\MySort.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
+
+build CMakeFiles/untitled1.dir/ListList.c.obj: C_COMPILER__untitled1_unscanned_Debug C$:/Users/14130/CLionProjects/untitled1/ListList.c || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\ListList.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
+
+build CMakeFiles/untitled1.dir/ArrOutput.c.obj: C_COMPILER__untitled1_unscanned_Debug C$:/Users/14130/CLionProjects/untitled1/ArrOutput.c || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\ArrOutput.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled1.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
@@ -69,7 +81,7 @@ build CMakeFiles/untitled1.dir/mySort.c.obj: C_COMPILER__untitled1_unscanned_Deb
 #############################################
 # Link the executable untitled1.exe
 
-build untitled1.exe: C_EXECUTABLE_LINKER__untitled1_Debug CMakeFiles/untitled1.dir/main.c.obj CMakeFiles/untitled1.dir/mySort.c.obj
+build untitled1.exe: C_EXECUTABLE_LINKER__untitled1_Debug CMakeFiles/untitled1.dir/main.c.obj CMakeFiles/untitled1.dir/MySort.c.obj CMakeFiles/untitled1.dir/ListList.c.obj CMakeFiles/untitled1.dir/ArrOutput.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled1.dir

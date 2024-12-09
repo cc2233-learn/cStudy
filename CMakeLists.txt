@@ -4,6 +4,11 @@ project(untitled1 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(untitled1 main.c
-        mySort.c
-        mySort.h
+        MySort.c
+        MySort.h
+        Macro.h
+        LinkList.h
+        ListList.c
+        ArrOutput.h
+        ArrOutput.c
 )
